@@ -1,0 +1,13 @@
+{
+  "name": "xonda-backend-simple",
+  "version": "1.0.0",
+  "description": "Xonda Warranty Backend API - Simplified",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
